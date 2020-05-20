@@ -1,0 +1,3 @@
+Random seed used: 18521584
+Did algorithm find optimized solution?: False
+Number of evaluation function calls?: 240

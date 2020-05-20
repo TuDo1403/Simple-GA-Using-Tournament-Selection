@@ -1,0 +1,40 @@
+Random seed used: 18521578
+Did algorithm find optimized solution?: True
+Number of evaluation function calls?: 192
+
+Random seed used: 18521579
+Did algorithm find optimized solution?: True
+Number of evaluation function calls?: 192
+
+Random seed used: 18521580
+Did algorithm find optimized solution?: True
+Number of evaluation function calls?: 192
+
+Random seed used: 18521581
+Did algorithm find optimized solution?: True
+Number of evaluation function calls?: 192
+
+Random seed used: 18521582
+Did algorithm find optimized solution?: True
+Number of evaluation function calls?: 192
+
+Random seed used: 18521583
+Did algorithm find optimized solution?: True
+Number of evaluation function calls?: 224
+
+Random seed used: 18521584
+Did algorithm find optimized solution?: True
+Number of evaluation function calls?: 160
+
+Random seed used: 18521585
+Did algorithm find optimized solution?: True
+Number of evaluation function calls?: 192
+
+Random seed used: 18521586
+Did algorithm find optimized solution?: True
+Number of evaluation function calls?: 224
+
+Random seed used: 18521587
+Did algorithm find optimized solution?: True
+Number of evaluation function calls?: 192
+
